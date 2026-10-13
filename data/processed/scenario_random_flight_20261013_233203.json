@@ -1,0 +1,46 @@
+{
+  "seed": 42,
+  "source": "data/flight_20261013_233203.csv",
+  "zones": [
+    {
+      "id": 1,
+      "center_east": 1.146843581,
+      "center_north": 1.878790503,
+      "radius_east": 0.6665917782738248,
+      "radius_north": 0.7873904020000372,
+      "offset_east": -1.6311551391369454,
+      "offset_north": 2.1872012965762284,
+      "offset_magnitude": 2.7284641466725565
+    },
+    {
+      "id": 2,
+      "center_east": 4.186265619,
+      "center_north": 6.008146045,
+      "radius_east": 0.6619918212892932,
+      "radius_north": 0.6994754901438109,
+      "offset_east": -2.6936727070643913,
+      "offset_north": -1.8661122385130888,
+      "offset_magnitude": 3.276926538619982
+    },
+    {
+      "id": 3,
+      "center_east": 4.878869757,
+      "center_north": 0.816488236,
+      "radius_east": 0.6824099739186912,
+      "radius_north": 0.7264896772535258,
+      "offset_east": -0.29456568839195496,
+      "offset_north": -3.3373348578187914,
+      "offset_magnitude": 3.350309373474366
+    },
+    {
+      "id": 4,
+      "center_east": 7.314884606,
+      "center_north": 2.939721531,
+      "radius_east": 0.7806652704471978,
+      "radius_north": 0.7909977706556374,
+      "offset_east": -1.3618233274637814,
+      "offset_north": -3.760621691550033,
+      "offset_magnitude": 3.99960476574638
+    }
+  ]
+}
